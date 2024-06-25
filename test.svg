@@ -1,3 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" version="1.1" height="200">
-    <image xlink:href="https://images.ctfassets.net/h0jtq0wdx190/7tO2jwAoYIU8MPe6J9baFt/a7c02a0850db79ae1c29616c9443197b/webpage_svg.svg" width="200" height="200"></image>
-</svg>
+<!--?xml version="1.0" ?-->
+<!DOCTYPE replace [<!ENTITY example "Doe"> ]>
+ <userInfo>
+  <firstName>John</firstName>
+  <lastName>&example;</lastName>
+ </userInfo>
